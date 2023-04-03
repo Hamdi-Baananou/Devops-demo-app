@@ -4,7 +4,7 @@
 It's a golang web app that takes a block of text and turns it into a word cloud. 
 Star this repo if you like the class!
 
-for the third commit
+for the 4th commit
 
 ## Prerequisites
 1. Install go - https://golang.org/doc/install (Start learning go with the tour - http://tour.golang.org/)
